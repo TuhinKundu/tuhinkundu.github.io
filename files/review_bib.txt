@@ -1,0 +1,8 @@
+@inproceedings{kundu2017advancements,
+  title={Advancements and recent trends in emotion recognition using facial image analysis and machine learning models},
+  author={Kundu, Tuhin and Saravanan, Chandran},
+  booktitle={2017 International Conference on Electrical, Electronics, Communication, Computer, and Optimization Techniques (ICEECCOT)},
+  pages={1--6},
+  year={2017},
+  organization={IEEE}
+}

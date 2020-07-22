@@ -1,0 +1,10 @@
+@article{ghosh2019feature,
+  title={Feature selection for facial emotion recognition using late hill-climbing based memetic algorithm},
+  author={Ghosh, Manosij and Kundu, Tuhin and Ghosh, Dipayan and Sarkar, Ram},
+  journal={Multimedia Tools and Applications},
+  volume={78},
+  number={18},
+  pages={25753--25779},
+  year={2019},
+  publisher={Springer}
+}

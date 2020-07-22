@@ -1,0 +1,9 @@
+@article{das2018dimensionality,
+  title={Dimensionality reduction for handwritten digit recognition},
+  author={Das, Ankita and Kundu, Tuhin and Saravanan, Chandran},
+  journal={EAI Endorsed Transactions on Cloud Systems},
+  volume={4},
+  number={13},
+  year={2018},
+  publisher={European Alliance for Innovation (EAI)}
+}
